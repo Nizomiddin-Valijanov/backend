@@ -229,11 +229,11 @@
 # print(kira)n
 
 # ismlar = ["Nizomiddin", "asdfasdf", "ASdfasdfasdf", "tolinjon",]
-array = []
-enterNum = 3
-for num in range(enterNum):
-    car = input("tachka:")
-    array.append(car)
+# array = []
+# enterNum = 3
+# for num in range(enterNum):
+#     car = input("tachka:")
+#     array.append(car)
 
-for index in range(enterNum):
-    print(f"{index + 1}.My car: {array[index]}")
+# for index in range(enterNum):
+#     print(f"{index + 1}.My car: {array[index]}")
